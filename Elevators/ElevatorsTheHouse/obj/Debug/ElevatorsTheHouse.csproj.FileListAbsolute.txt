@@ -1,0 +1,112 @@
+C:\Users\Rasif\Desktop\ElevatorsTheHouse\ElevatorsTheHouse\bin\Debug\ElevatorsTheHouse.exe.config
+C:\Users\Rasif\Desktop\ElevatorsTheHouse\ElevatorsTheHouse\bin\Debug\ElevatorsTheHouse.exe
+C:\Users\Rasif\Desktop\ElevatorsTheHouse\ElevatorsTheHouse\bin\Debug\ElevatorsTheHouse.pdb
+C:\Users\Rasif\Desktop\ElevatorsTheHouse\ElevatorsTheHouse\obj\Debug\ElevatorsTheHouse.csprojResolveAssemblyReference.cache
+C:\Users\Rasif\Desktop\ElevatorsTheHouse\ElevatorsTheHouse\obj\Debug\App.g.cs
+C:\Users\Rasif\Desktop\ElevatorsTheHouse\ElevatorsTheHouse\obj\Debug\ElevatorsTheHouse_MarkupCompile.cache
+C:\Users\Rasif\Desktop\ElevatorsTheHouse\ElevatorsTheHouse\obj\Debug\ElevatorsTheHouse_MarkupCompile.lref
+C:\Users\Rasif\Desktop\ElevatorsTheHouse\ElevatorsTheHouse\obj\Debug\ElevatorsTheHouse.g.resources
+C:\Users\Rasif\Desktop\ElevatorsTheHouse\ElevatorsTheHouse\obj\Debug\ElevatorsTheHouse.Properties.Resources.resources
+C:\Users\Rasif\Desktop\ElevatorsTheHouse\ElevatorsTheHouse\obj\Debug\ElevatorsTheHouse.csproj.GenerateResource.Cache
+C:\Users\Rasif\Desktop\ElevatorsTheHouse\ElevatorsTheHouse\obj\Debug\ElevatorsTheHouse.exe
+C:\Users\Rasif\Desktop\ElevatorsTheHouse\ElevatorsTheHouse\obj\Debug\ElevatorsTheHouse.pdb
+C:\Users\Rasif\Desktop\ElevatorsTheHouse\ElevatorsTheHouse\obj\Debug\View\MainView.g.cs
+C:\Users\Rasif\Desktop\ElevatorsTheHouse\ElevatorsTheHouse\obj\Debug\View\MainView.baml
+C:\Users\Rasif\Desktop\ElevatorsTheHouse\ElevatorsTheHouse\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Rasif\Desktop\ElevatorsTheHouse\ElevatorsTheHouse\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Rasif\Desktop\ElevatorsTheHouse\ElevatorsTheHouse\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Rasif\Desktop\ElevatorsTheHouse\ElevatorsTheHouse\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Rasif\Desktop\ElevatorsTheHouse\ElevatorsTheHouse\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Rasif\Desktop\ElevatorsTheHouse\ElevatorsTheHouse\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Rasif\Desktop\ElevatorsTheHouse\ElevatorsTheHouse\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Rasif\Desktop\ElevatorsTheHouse\ElevatorsTheHouse\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Rasif\Desktop\ElevatorsTheHouse\ElevatorsTheHouse\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Rasif\Desktop\ElevatorsTheHouse\ElevatorsTheHouse\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Rasif\Desktop\ElevatorsTheHouse\ElevatorsTheHouse\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Rasif\Desktop\ElevatorsTheHouse\ElevatorsTheHouse\obj\Debug\View\MainDictionary.baml
+C:\Users\Rasif\Desktop\ElevatorsTheHouse\ElevatorsTheHouse\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Rasif\YandexDisk\ElevatorsTheHouse\ElevatorsTheHouse\bin\Debug\ElevatorsTheHouse.exe.config
+C:\Users\Rasif\YandexDisk\ElevatorsTheHouse\ElevatorsTheHouse\obj\Debug\ElevatorsTheHouse.exe
+C:\Users\Rasif\YandexDisk\ElevatorsTheHouse\ElevatorsTheHouse\obj\Debug\ElevatorsTheHouse.pdb
+C:\Users\Rasif\YandexDisk\ElevatorsTheHouse\ElevatorsTheHouse\bin\Debug\ElevatorsTheHouse.exe
+C:\Users\Rasif\YandexDisk\ElevatorsTheHouse\ElevatorsTheHouse\bin\Debug\ElevatorsTheHouse.pdb
+C:\Users\Rasif\YandexDisk\ElevatorsTheHouse\ElevatorsTheHouse\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Rasif\YandexDisk\ElevatorsTheHouse\ElevatorsTheHouse\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Rasif\YandexDisk\ElevatorsTheHouse\ElevatorsTheHouse\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Rasif\YandexDisk\ElevatorsTheHouse\ElevatorsTheHouse\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Rasif\YandexDisk\ElevatorsTheHouse\ElevatorsTheHouse\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Rasif\YandexDisk\ElevatorsTheHouse\ElevatorsTheHouse\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Rasif\YandexDisk\ElevatorsTheHouse\ElevatorsTheHouse\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Rasif\YandexDisk\ElevatorsTheHouse\ElevatorsTheHouse\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Rasif\YandexDisk\ElevatorsTheHouse\ElevatorsTheHouse\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Rasif\YandexDisk\ElevatorsTheHouse\ElevatorsTheHouse\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Rasif\YandexDisk\ElevatorsTheHouse\ElevatorsTheHouse\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Rasif\YandexDisk\ElevatorsTheHouse\ElevatorsTheHouse\obj\Debug\ElevatorsTheHouse.csprojResolveAssemblyReference.cache
+C:\Users\Rasif\YandexDisk\ElevatorsTheHouse\ElevatorsTheHouse\obj\Debug\View\MainView.baml
+C:\Users\Rasif\YandexDisk\ElevatorsTheHouse\ElevatorsTheHouse\obj\Debug\View\MainView.g.cs
+C:\Users\Rasif\YandexDisk\ElevatorsTheHouse\ElevatorsTheHouse\obj\Debug\App.g.cs
+C:\Users\Rasif\YandexDisk\ElevatorsTheHouse\ElevatorsTheHouse\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Rasif\YandexDisk\ElevatorsTheHouse\ElevatorsTheHouse\obj\Debug\ElevatorsTheHouse_MarkupCompile.cache
+C:\Users\Rasif\YandexDisk\ElevatorsTheHouse\ElevatorsTheHouse\obj\Debug\ElevatorsTheHouse_MarkupCompile.lref
+C:\Users\Rasif\YandexDisk\ElevatorsTheHouse\ElevatorsTheHouse\obj\Debug\View\MainDictionary.baml
+C:\Users\Rasif\YandexDisk\ElevatorsTheHouse\ElevatorsTheHouse\obj\Debug\ElevatorsTheHouse.g.resources
+C:\Users\Rasif\YandexDisk\ElevatorsTheHouse\ElevatorsTheHouse\obj\Debug\ElevatorsTheHouse.Properties.Resources.resources
+C:\Users\Rasif\YandexDisk\ElevatorsTheHouse\ElevatorsTheHouse\obj\Debug\ElevatorsTheHouse.csproj.GenerateResource.Cache
+C:\Users\Rasif\Desktop\По учебе\Учеба\Си Шарп\Лабы по С#\18 - Лифты\ElevatorsTheHouse\bin\Debug\ElevatorsTheHouse.exe.config
+C:\Users\Rasif\Desktop\По учебе\Учеба\Си Шарп\Лабы по С#\18 - Лифты\ElevatorsTheHouse\obj\Debug\ElevatorsTheHouse.exe
+C:\Users\Rasif\Desktop\По учебе\Учеба\Си Шарп\Лабы по С#\18 - Лифты\ElevatorsTheHouse\obj\Debug\ElevatorsTheHouse.pdb
+C:\Users\Rasif\Desktop\По учебе\Учеба\Си Шарп\Лабы по С#\18 - Лифты\ElevatorsTheHouse\bin\Debug\ElevatorsTheHouse.exe
+C:\Users\Rasif\Desktop\По учебе\Учеба\Си Шарп\Лабы по С#\18 - Лифты\ElevatorsTheHouse\bin\Debug\ElevatorsTheHouse.pdb
+C:\Users\Rasif\Desktop\По учебе\Учеба\Си Шарп\Лабы по С#\18 - Лифты\ElevatorsTheHouse\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Rasif\Desktop\По учебе\Учеба\Си Шарп\Лабы по С#\18 - Лифты\ElevatorsTheHouse\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Rasif\Desktop\По учебе\Учеба\Си Шарп\Лабы по С#\18 - Лифты\ElevatorsTheHouse\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Rasif\Desktop\По учебе\Учеба\Си Шарп\Лабы по С#\18 - Лифты\ElevatorsTheHouse\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Rasif\Desktop\По учебе\Учеба\Си Шарп\Лабы по С#\18 - Лифты\ElevatorsTheHouse\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Rasif\Desktop\По учебе\Учеба\Си Шарп\Лабы по С#\18 - Лифты\ElevatorsTheHouse\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Rasif\Desktop\По учебе\Учеба\Си Шарп\Лабы по С#\18 - Лифты\ElevatorsTheHouse\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Rasif\Desktop\По учебе\Учеба\Си Шарп\Лабы по С#\18 - Лифты\ElevatorsTheHouse\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Rasif\Desktop\По учебе\Учеба\Си Шарп\Лабы по С#\18 - Лифты\ElevatorsTheHouse\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Rasif\Desktop\По учебе\Учеба\Си Шарп\Лабы по С#\18 - Лифты\ElevatorsTheHouse\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Rasif\Desktop\По учебе\Учеба\Си Шарп\Лабы по С#\18 - Лифты\ElevatorsTheHouse\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Rasif\Desktop\По учебе\Учеба\Си Шарп\Лабы по С#\18 - Лифты\ElevatorsTheHouse\obj\Debug\ElevatorsTheHouse.csprojResolveAssemblyReference.cache
+C:\Users\Rasif\Desktop\По учебе\Учеба\Си Шарп\Лабы по С#\18 - Лифты\ElevatorsTheHouse\obj\Debug\View\MainView.baml
+C:\Users\Rasif\Desktop\По учебе\Учеба\Си Шарп\Лабы по С#\18 - Лифты\ElevatorsTheHouse\obj\Debug\View\MainView.g.cs
+C:\Users\Rasif\Desktop\По учебе\Учеба\Си Шарп\Лабы по С#\18 - Лифты\ElevatorsTheHouse\obj\Debug\App.g.cs
+C:\Users\Rasif\Desktop\По учебе\Учеба\Си Шарп\Лабы по С#\18 - Лифты\ElevatorsTheHouse\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Rasif\Desktop\По учебе\Учеба\Си Шарп\Лабы по С#\18 - Лифты\ElevatorsTheHouse\obj\Debug\ElevatorsTheHouse_MarkupCompile.cache
+C:\Users\Rasif\Desktop\По учебе\Учеба\Си Шарп\Лабы по С#\18 - Лифты\ElevatorsTheHouse\obj\Debug\ElevatorsTheHouse_MarkupCompile.lref
+C:\Users\Rasif\Desktop\По учебе\Учеба\Си Шарп\Лабы по С#\18 - Лифты\ElevatorsTheHouse\obj\Debug\View\MainDictionary.baml
+C:\Users\Rasif\Desktop\По учебе\Учеба\Си Шарп\Лабы по С#\18 - Лифты\ElevatorsTheHouse\obj\Debug\ElevatorsTheHouse.g.resources
+C:\Users\Rasif\Desktop\По учебе\Учеба\Си Шарп\Лабы по С#\18 - Лифты\ElevatorsTheHouse\obj\Debug\ElevatorsTheHouse.Properties.Resources.resources
+C:\Users\Rasif\Desktop\По учебе\Учеба\Си Шарп\Лабы по С#\18 - Лифты\ElevatorsTheHouse\obj\Debug\ElevatorsTheHouse.csproj.GenerateResource.Cache
+C:\Users\Rasif\Desktop\По учебе\Учеба\Си Шарп\Лабы по С#\18 - Лифты\ElevatorsTheHouse\obj\Debug\View\StartView.baml
+C:\Users\Rasif\Desktop\По учебе\Учеба\Си Шарп\Лабы по С#\18 - Лифты\ElevatorsTheHouse\obj\Debug\View\StartView.g.cs
+P:\Учеба с прошлых курсов\3-ий курс\Учеба\Си Шарп\Лабы по С#\18 - Лифты\ElevatorsTheHouse\bin\Debug\ElevatorsTheHouse.exe.config
+P:\Учеба с прошлых курсов\3-ий курс\Учеба\Си Шарп\Лабы по С#\18 - Лифты\ElevatorsTheHouse\obj\Debug\ElevatorsTheHouse.exe
+P:\Учеба с прошлых курсов\3-ий курс\Учеба\Си Шарп\Лабы по С#\18 - Лифты\ElevatorsTheHouse\obj\Debug\ElevatorsTheHouse.pdb
+P:\Учеба с прошлых курсов\3-ий курс\Учеба\Си Шарп\Лабы по С#\18 - Лифты\ElevatorsTheHouse\bin\Debug\ElevatorsTheHouse.exe
+P:\Учеба с прошлых курсов\3-ий курс\Учеба\Си Шарп\Лабы по С#\18 - Лифты\ElevatorsTheHouse\bin\Debug\ElevatorsTheHouse.pdb
+P:\Учеба с прошлых курсов\3-ий курс\Учеба\Си Шарп\Лабы по С#\18 - Лифты\ElevatorsTheHouse\bin\Debug\System.Windows.Interactivity.dll
+P:\Учеба с прошлых курсов\3-ий курс\Учеба\Си Шарп\Лабы по С#\18 - Лифты\ElevatorsTheHouse\bin\Debug\de\System.Windows.Interactivity.resources.dll
+P:\Учеба с прошлых курсов\3-ий курс\Учеба\Си Шарп\Лабы по С#\18 - Лифты\ElevatorsTheHouse\bin\Debug\en\System.Windows.Interactivity.resources.dll
+P:\Учеба с прошлых курсов\3-ий курс\Учеба\Си Шарп\Лабы по С#\18 - Лифты\ElevatorsTheHouse\bin\Debug\es\System.Windows.Interactivity.resources.dll
+P:\Учеба с прошлых курсов\3-ий курс\Учеба\Си Шарп\Лабы по С#\18 - Лифты\ElevatorsTheHouse\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+P:\Учеба с прошлых курсов\3-ий курс\Учеба\Си Шарп\Лабы по С#\18 - Лифты\ElevatorsTheHouse\bin\Debug\it\System.Windows.Interactivity.resources.dll
+P:\Учеба с прошлых курсов\3-ий курс\Учеба\Си Шарп\Лабы по С#\18 - Лифты\ElevatorsTheHouse\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+P:\Учеба с прошлых курсов\3-ий курс\Учеба\Си Шарп\Лабы по С#\18 - Лифты\ElevatorsTheHouse\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+P:\Учеба с прошлых курсов\3-ий курс\Учеба\Си Шарп\Лабы по С#\18 - Лифты\ElevatorsTheHouse\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+P:\Учеба с прошлых курсов\3-ий курс\Учеба\Си Шарп\Лабы по С#\18 - Лифты\ElevatorsTheHouse\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+P:\Учеба с прошлых курсов\3-ий курс\Учеба\Си Шарп\Лабы по С#\18 - Лифты\ElevatorsTheHouse\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+P:\Учеба с прошлых курсов\3-ий курс\Учеба\Си Шарп\Лабы по С#\18 - Лифты\ElevatorsTheHouse\obj\Debug\ElevatorsTheHouse.csprojResolveAssemblyReference.cache
+P:\Учеба с прошлых курсов\3-ий курс\Учеба\Си Шарп\Лабы по С#\18 - Лифты\ElevatorsTheHouse\obj\Debug\View\MainView.baml
+P:\Учеба с прошлых курсов\3-ий курс\Учеба\Си Шарп\Лабы по С#\18 - Лифты\ElevatorsTheHouse\obj\Debug\View\StartView.baml
+P:\Учеба с прошлых курсов\3-ий курс\Учеба\Си Шарп\Лабы по С#\18 - Лифты\ElevatorsTheHouse\obj\Debug\View\MainView.g.cs
+P:\Учеба с прошлых курсов\3-ий курс\Учеба\Си Шарп\Лабы по С#\18 - Лифты\ElevatorsTheHouse\obj\Debug\View\StartView.g.cs
+P:\Учеба с прошлых курсов\3-ий курс\Учеба\Си Шарп\Лабы по С#\18 - Лифты\ElevatorsTheHouse\obj\Debug\App.g.cs
+P:\Учеба с прошлых курсов\3-ий курс\Учеба\Си Шарп\Лабы по С#\18 - Лифты\ElevatorsTheHouse\obj\Debug\GeneratedInternalTypeHelper.g.cs
+P:\Учеба с прошлых курсов\3-ий курс\Учеба\Си Шарп\Лабы по С#\18 - Лифты\ElevatorsTheHouse\obj\Debug\ElevatorsTheHouse_MarkupCompile.cache
+P:\Учеба с прошлых курсов\3-ий курс\Учеба\Си Шарп\Лабы по С#\18 - Лифты\ElevatorsTheHouse\obj\Debug\ElevatorsTheHouse_MarkupCompile.lref
+P:\Учеба с прошлых курсов\3-ий курс\Учеба\Си Шарп\Лабы по С#\18 - Лифты\ElevatorsTheHouse\obj\Debug\View\MainDictionary.baml
+P:\Учеба с прошлых курсов\3-ий курс\Учеба\Си Шарп\Лабы по С#\18 - Лифты\ElevatorsTheHouse\obj\Debug\ElevatorsTheHouse.g.resources
+P:\Учеба с прошлых курсов\3-ий курс\Учеба\Си Шарп\Лабы по С#\18 - Лифты\ElevatorsTheHouse\obj\Debug\ElevatorsTheHouse.Properties.Resources.resources
+P:\Учеба с прошлых курсов\3-ий курс\Учеба\Си Шарп\Лабы по С#\18 - Лифты\ElevatorsTheHouse\obj\Debug\ElevatorsTheHouse.csproj.GenerateResource.Cache

@@ -1,0 +1,129 @@
+﻿<ResourceDictionary
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:model="clr-namespace:ElevatorsTheHouse.Model">
+
+    <DataTemplate x:Key="FloorTemplate" DataType="{x:Type model:FloorModel}">
+        <WrapPanel>
+            <Border
+                Width="120"
+                Height="140"
+                Margin="0,10,0,10"
+                Background="#D7D4D4"
+                BorderBrush="WhiteSmoke"
+                BorderThickness="1,0,1,0" />
+            <RadioButton
+                Margin="15,0,0,0"
+                VerticalAlignment="Center"
+                Background="LightSkyBlue"
+                BorderBrush="White"
+                BorderThickness="1"
+                Command="{Binding DataContext.CallElevatorCommand, RelativeSource={RelativeSource AncestorType=Window}}"
+                CommandParameter="{Binding}"
+                IsChecked="{Binding IsPressed}">
+                <RadioButton.Style>
+                    <Style TargetType="RadioButton">
+                        <Style.Setters>
+                            <Setter Property="IsEnabled" Value="True" />
+                        </Style.Setters>
+                        <Style.Triggers>
+                            <DataTrigger Binding="{Binding IsPressed}" Value="True">
+                                <Setter Property="IsEnabled" Value="False" />
+                            </DataTrigger>
+                            <DataTrigger Binding="{Binding IsPressed}" Value="False">
+                                <Setter Property="IsEnabled" Value="True" />
+                            </DataTrigger>
+                        </Style.Triggers>
+                    </Style>
+                </RadioButton.Style>
+            </RadioButton>
+        </WrapPanel>
+    </DataTemplate>
+
+    <DataTemplate x:Key="LiftTemplate" DataType="{x:Type model:LiftModel}">
+        <Canvas>
+            <Rectangle
+                Canvas.Left="{Binding X}"
+                Canvas.Top="{Binding Y}"
+                Width="120"
+                Height="{Binding Weight}"
+                Fill="Gray" />
+            <Rectangle
+                Canvas.Left="{Binding X}"
+                Canvas.Top="{Binding Y}"
+                Height="140"
+                Fill="#E9E9E9">
+                <Rectangle.Style>
+                    <Style TargetType="Rectangle">
+                        <Style.Setters>
+                            <Setter Property="Width" Value="120" />
+                        </Style.Setters>
+                        <Style.Triggers>
+                            <DataTrigger Binding="{Binding IsOpened}" Value="True">
+                                <DataTrigger.EnterActions>
+                                    <BeginStoryboard>
+                                        <Storyboard>
+                                            <DoubleAnimation
+                                                FillBehavior="Stop"
+                                                Storyboard.TargetProperty="Width"
+                                                From="120"
+                                                To="0"
+                                                Duration="0:0:2" />
+                                        </Storyboard>
+                                    </BeginStoryboard>
+                                </DataTrigger.EnterActions>
+                            </DataTrigger>
+                            <DataTrigger Binding="{Binding IsOpened}" Value="False">
+                                <DataTrigger.EnterActions>
+                                    <BeginStoryboard>
+                                        <Storyboard>
+                                            <DoubleAnimation
+                                                FillBehavior="Stop"
+                                                Storyboard.TargetProperty="Width"
+                                                From="0"
+                                                To="120"
+                                                Duration="0:0:2" />
+                                        </Storyboard>
+                                    </BeginStoryboard>
+                                </DataTrigger.EnterActions>
+                            </DataTrigger>
+                        </Style.Triggers>
+                    </Style>
+                </Rectangle.Style>
+            </Rectangle>
+        </Canvas>
+    </DataTemplate>
+
+    <DataTemplate x:Key="BlockTemplate" DataType="{x:Type model:BlockModel}">
+        <Canvas>
+            <ItemsControl
+                Canvas.Left="{Binding X}"
+                ItemTemplate="{StaticResource FloorTemplate}"
+                ItemsSource="{Binding Floors}">
+                <ItemsControl.ItemsPanel>
+                    <ItemsPanelTemplate>
+                        <StackPanel Background="Transparent" />
+                    </ItemsPanelTemplate>
+                </ItemsControl.ItemsPanel>
+            </ItemsControl>
+            <ContentControl
+                Margin="0,10,30,0"
+                Content="{Binding Lift}"
+                ContentTemplate="{StaticResource LiftTemplate}" />
+        </Canvas>
+    </DataTemplate>
+
+    <DataTemplate x:Key="HouseTempate" DataType="{x:Type model:HouseModel}">
+        <ItemsControl ItemTemplate="{StaticResource BlockTemplate}" ItemsSource="{Binding Blocks}">
+            <ItemsControl.ItemsPanel>
+                <ItemsPanelTemplate>
+                    <Canvas
+                        Width="{Binding Width}"
+                        Height="{Binding Height}"
+                        Background="Transparent" />
+                </ItemsPanelTemplate>
+            </ItemsControl.ItemsPanel>
+        </ItemsControl>
+    </DataTemplate>
+
+</ResourceDictionary>
